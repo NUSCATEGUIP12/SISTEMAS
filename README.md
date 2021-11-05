@@ -39,14 +39,14 @@ http://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8?Play
 https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Local",Suram TV (1080p)
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US;LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Music",Vallenato Internacional (720p)
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US;LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Local",Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepetroleo.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="Local",Telepetróleo (Barrancabermeja | Santander) (720p)
 https://iptv-all.lanesh4d0w.codes/colombia/telepetroleo.m3u8
 
 #EXTINF:-1 tvg-id="UNOPLAY" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entretenimiento",UNO PLAY (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="",LATAM TV (Bogotà) (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="Entretenimiento",LATAM TV (Bogotà) (540p) [Not 24/7]
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="EWTN" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Entretenimiento",EWTN el Canal Católico (1080p)
 http://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
