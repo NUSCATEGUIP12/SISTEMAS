@@ -71,7 +71,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="Entretenimiento",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="",Latina (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="Etretenimiento",Latina (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Entretenimiento",Panamericana TV [Not 24/7]
 http://cdnhd.iblups.com/hls/ptv2.m3u8
